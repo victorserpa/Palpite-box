@@ -1,4 +1,3 @@
-![Victor Serpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorserpa&show_icons=true&theme=radical)
 [![HitCount](http://hits.dwyl.com/victorserpa/Palpite-box.svg)](http://hits.dwyl.com/victorserpa/Palpite-box)
 
 
