@@ -41,7 +41,7 @@ const Pesquisa = () => {
         <label className='font-bold'>Seu nome:</label>
         <input type='text' className='p-4 block shadow bg-blue-100 my-2 rounded' placeholder='Nome' onChange={onChange} name='Nome' value={form.Nome} />
         <label className='font-bold'>E-mail:</label>
-        <input type='text' className='p-4 block shadow bg-blue-100 my-2 rounded' placeholder='Email' onChange={onChange} name='Email' value={form.email} />
+        <input type='text' className='p-4 block shadow bg-blue-100 my-2 rounded' placeholder='Email' onChange={onChange} name='Email' value={form.Email} />
         <label className='font-bold'>Whatsapp:</label>
         <input type='text' className='p-4 block shadow bg-blue-100 my-2 rounded' placeholder='Whatsapp' onChange={onChange} name='Whatsapp' value={form.Whatsapp} />
         <label className='font-bold'>Sua Crítica ou sugestão:</label>
