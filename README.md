@@ -2,6 +2,9 @@
 
 ## 📖 Sobre
 É um site criado para estabelecimentos que querem se aproximar mais dos seus clientes, armazenando as informações de cada cliente em planilhas online do Google.
+Uma versão online deste projeto pode ser encontrada em: https://vercel.com/schmvitor/palpite-box.
+
+![Preview](https://github.com/tuliofaria/palpite-box/blob/master/print.png?raw=true)
 
 ---
 
