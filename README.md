@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/victorserpa/Palpite-box.svg)](http://hits.dwyl.com/victorserpa/Palpite-box)
 
-## 📖Sobre
+## 📖 Sobre
 É um site criado para estabelecimentos que querem se aproximar mais dos seus clientes, armazenando as informações de cada cliente em planilhas online do Google.
 
 ---
